@@ -1,0 +1,102 @@
+sep=;
+;Title;MAL Id;Type;Episode Duration;Studios;Source Type;Genres;Themes;Rating;Popularity;Score
+0;Fullmetal Alchemist: Brotherhood;5114;TV;24 min. per ep.;['Bones'];Manga;['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy'];N\A; R - 17+ (violence & profanity)  ;3;9.15
+1;Shingeki no Kyojin: The Final Season Part 2;48583;TV;23 min. per ep.;['MAPPA'];Manga;['Action', 'Drama', 'Fantasy', 'Mystery'];['Military', 'Super Power']; R - 17+ (violence & profanity)  ;221;9.15
+2;"Steins;Gate";9253;TV;24 min. per ep.;['White Fox'];Visual;['Drama', 'Sci-Fi', 'Suspense'];N\A; PG-13 - Teens 13 or older  ;13;9.09
+3;Gintama°;28977;TV;24 min. per ep.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;335;9.09
+4;Shingeki no Kyojin Season 3 Part 2;38524;TV;23 min. per ep.;['Wit Studio'];Manga;['Action', 'Drama', 'Fantasy', 'Mystery'];['Military', 'Super Power']; R - 17+ (violence & profanity)  ;31;9.08
+5;Fruits Basket: The Final;42938;TV;23 min. per ep.;['TMS Entertainment'];Manga;['Drama', 'Romance', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;625;9.06
+6;Gintama';9969;TV;24 min. per ep.;['Sunrise'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;381;9.06
+7;Gintama: The Final;39486;Movie;1 hr. 44 min.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Drama', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;1798;9.05
+8;Hunter x Hunter (2011);11061;TV;23 min. per ep.;['Madhouse'];Manga;['Action', 'Adventure', 'Fantasy'];N\A; PG-13 - Teens 13 or older  ;11;9.05
+9;Gintama': Enchousen;15417;TV;24 min. per ep.;['Sunrise'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;691;9.04
+10;Ginga Eiyuu Densetsu;820;OVA;26 min. per ep.;['K-Factory', 'Kitty Film Mitaka Studio'];Novel;['Drama', 'Sci-Fi'];['Military', 'Space']; R - 17+ (violence & profanity)  ;682;9.03
+11;Gintama.;34096;TV;24 min. per ep.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;729;8.99
+12;3-gatsu no Lion 2nd Season;35180;TV;25 min. per ep.;['Shaft'];Manga;['Drama', 'Slice of Life'];N\A; PG-13 - Teens 13 or older  ;526;8.96
+13;Koe no Katachi;28851;Movie;2 hr. 10 min.;['Kyoto Animation'];Manga;N\A;N\A; PG-13 - Teens 13 or older  ;19;8.96
+14;Violet Evergarden Movie;37987;Movie;2 hr. 20 min.;['Kyoto Animation'];Light;['Drama', 'Fantasy', 'Slice of Life'];N\A; PG-13 - Teens 13 or older  ;442;8.96
+15;Clannad: After Story;4181;TV;24 min. per ep.;['Kyoto Animation'];Visual;['Comedy', 'Drama', 'Romance', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;101;8.95
+16;Gintama;918;TV;24 min. per ep.;['Sunrise'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;123;8.95
+17;Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare;15335;Movie;1 hr. 50 min.;['Sunrise'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;931;8.94
+18;Code Geass: Hangyaku no Lelouch R2;2904;TV;24 min. per ep.;['Sunrise'];Original;['Action', 'Drama', 'Sci-Fi'];['Mecha', 'Military', 'Super Power']; R - 17+ (violence & profanity)  ;46;8.91
+19;Kimetsu no Yaiba: Yuukaku-hen;47778;TV;23 min. per ep.;['ufotable'];Manga;['Action', 'Supernatural'];['Demons', 'Historical']; R - 17+ (violence & profanity)  ;223;8.91
+20;Owarimonogatari 2nd Season;35247;TV;22 min. per ep.;['Shaft'];Light;['Comedy', 'Mystery', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;530;8.91
+21;Gintama.: Shirogane no Tamashii-hen - Kouhan-sen;37491;TV;24 min. per ep.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;1190;8.89
+22;Kimi no Na wa.;32281;Movie;1 hr. 46 min.;['CoMix Wave Films'];Original;['Drama', 'Romance', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;10;8.88
+23;Shingeki no Kyojin: The Final Season;40028;TV;23 min. per ep.;['MAPPA'];Manga;['Action', 'Drama', 'Fantasy', 'Mystery'];['Military', 'Super Power']; R - 17+ (violence & profanity)  ;57;8.88
+24;Shiguang Dailiren;44074;ONA;23 min. per ep.;['Studio LAN'];Original;['Drama', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;1198;8.83
+25;Monster;19;TV;24 min. per ep.;['Madhouse'];Manga;['Drama', 'Mystery', 'Suspense'];N\A; R+ - Mild Nudity  ;156;8.82
+26;Gintama.: Shirogane no Tamashii-hen;36838;TV;24 min. per ep.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;1088;8.82
+27;Kizumonogatari III: Reiketsu-hen;31758;Movie;1 hr. 23 min.;['Shaft'];Light;['Action', 'Mystery', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;452;8.81
+28;Mob Psycho 100 II;37510;TV;24 min. per ep.;['Bones'];Web;['Action', 'Comedy', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;87;8.81
+29;Ousama Ranking;40834;TV;23 min. per ep.;['Wit Studio'];Web;['Adventure', 'Fantasy'];N\A; PG-13 - Teens 13 or older  ;667;8.81
+30;Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou;32935;TV;24 min. per ep.;['Production I.G'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;110;8.80
+31;Sen to Chihiro no Kamikakushi;199;Movie;2 hr. 4 min.;['Studio Ghibli'];Original;['Adventure', 'Award Winning', 'Drama', 'Supernatural'];N\A; PG - Children  ;43;8.79
+32;Monogatari Series: Second Season;17074;TV;25 min. per ep.;['Shaft'];Light;['Comedy', 'Mystery', 'Romance', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;267;8.78
+33;Mushoku Tensei: Isekai Ittara Honki Dasu Part 2;45576;TV;23 min. per ep.;['Studio Bind'];Light;['Drama', 'Fantasy', 'Ecchi'];N\A; R - 17+ (violence & profanity)  ;339;8.77
+34;Odd Taxi;46102;TV;23 min. per ep.;['OLM', 'P.I.C.S.'];Original;N\A;N\A; PG-13 - Teens 13 or older  ;854;8.77
+35;Kingdom 3rd Season;40682;TV;25 min. per ep.;['Pierrot Plus', 'Studio Signpost'];Manga;N\A;['Historical', 'Military']; R - 17+ (violence & profanity)  ;2310;8.77
+36;Cowboy Bebop;1;TV;24 min. per ep.;['Sunrise'];Original;['Action', 'Adventure', 'Comedy', 'Drama', 'Sci-Fi'];N\A; R - 17+ (violence & profanity)  ;42;8.76
+37;Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen;33095;TV;24 min. per ep.;['Studio Deen'];Manga;N\A;N\A; PG-13 - Teens 13 or older  ;1126;8.75
+38;Mushishi Zoku Shou 2nd Season;24701;TV;23 min. per ep.;['Artland'];Manga;['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;811;8.74
+39;Hajime no Ippo;263;TV;23 min. per ep.;['Madhouse'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;367;8.74
+40;Fate/stay night Movie: Heaven's Feel - III. Spring Song;33050;Movie;2 hr. 2 min.;['ufotable'];Visual;['Action', 'Fantasy', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;743;8.73
+41;Vinland Saga;37521;TV;24 min. per ep.;['Wit Studio'];Manga;['Action', 'Adventure', 'Drama'];N\A; R - 17+ (violence & profanity)  ;104;8.73
+42;Mo Dao Zu Shi: Wanjie Pian;40434;ONA;24 min. per ep.;['B.CMAY PICTURES'];Novel;['Action', 'Drama', 'Supernatural'];['Demons', 'Historical']; R - 17+ (violence & profanity)  ;2649;8.71
+43;Mushishi Zoku Shou;21939;TV;24 min. per ep.;['Artland'];Manga;['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;713;8.71
+44;Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen;44;OVA;30 min. per ep.;['Studio Deen'];Manga;['Action', 'Drama', 'Romance'];['Historical', 'Martial Arts', 'Samurai']; R - 17+ (violence & profanity)  ;746;8.71
+45;Jujutsu Kaisen (TV);40748;TV;23 min. per ep.;['MAPPA'];Manga;['Action', 'Supernatural'];['Demons', 'School']; R - 17+ (violence & profanity)  ;38;8.71
+46;Ashita no Joe 2;2921;TV;24 min. per ep.;['Tokyo Movie Shinsha'];Manga;['Action', 'Drama', 'Slice of Life', 'Sports'];N\A; PG-13 - Teens 13 or older  ;2921;8.70
+47;Code Geass: Hangyaku no Lelouch;1575;TV;24 min. per ep.;['Sunrise'];Original;['Action', 'Drama', 'Sci-Fi'];['Mecha', 'Military', 'School', 'Super Power']; R - 17+ (violence & profanity)  ;17;8.70
+48;Kimetsu no Yaiba Movie: Mugen Ressha-hen;40456;Movie;1 hr. 56 min.;['ufotable'];Manga;N\A;['Demons', 'Historical']; R - 17+ (violence & profanity)  ;120;8.70
+49;Great Teacher Onizuka;245;TV;25 min. per ep.;['Studio Pierrot'];Manga;['Comedy', 'Drama'];N\A; R - 17+ (violence & profanity)  ;207;8.69
+50;Made in Abyss;34599;TV;25 min. per ep.;['Kinema Citrus'];Web;['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi'];N\A; R - 17+ (violence & profanity)  ;95;8.69
+51;Made in Abyss Movie 3: Fukaki Tamashii no Reimei;36862;Movie;1 hr. 45 min.;['Kinema Citrus'];Web;['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi'];N\A; R - 17+ (violence & profanity)  ;590;8.69
+52;Mononoke Hime;164;Movie;2 hr. 13 min.;['Studio Ghibli'];Original;['Action', 'Adventure', 'Fantasy'];N\A; PG-13 - Teens 13 or older  ;100;8.68
+53;Mushishi;457;TV;25 min. per ep.;['Artland'];Manga;['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;194;8.67
+54;Shigatsu wa Kimi no Uso;23273;TV;22 min. per ep.;['A-1 Pictures'];Manga;['Drama', 'Romance'];['Music', 'School']; PG-13 - Teens 13 or older  ;21;8.67
+55;Natsume Yuujinchou Shi;11665;TV;24 min. per ep.;"[""Brain's Base""]";Manga;['Drama', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;863;8.66
+56;Violet Evergarden;33352;TV;24 min. per ep.;['Kyoto Animation'];Light;['Drama', 'Fantasy', 'Slice of Life'];N\A; PG-13 - Teens 13 or older  ;51;8.66
+57;Evangelion: 3.0+1.0 Thrice Upon a Time;3786;Movie;2 hr. 35 min.;['Khara'];Original;['Action', 'Drama', 'Sci-Fi'];['Mecha', 'Psychological']; PG-13 - Teens 13 or older  ;686;8.66
+58;Haikyuu!! Second Season;28891;TV;24 min. per ep.;['Production I.G'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;83;8.66
+59;Hajime no Ippo: New Challenger;5258;TV;23 min. per ep.;['Madhouse'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;797;8.66
+60;Howl no Ugoku Shiro;431;Movie;1 hr. 59 min.;['Studio Ghibli'];Novel;['Adventure', 'Drama', 'Fantasy', 'Romance'];N\A; G - All Ages  ;97;8.66
+61;Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen;40591;TV;24 min. per ep.;['A-1 Pictures'];Manga;['Comedy', 'Romance'];['Psychological', 'School']; PG-13 - Teens 13 or older  ;116;8.66
+62;Tengen Toppa Gurren Lagann;2001;TV;24 min. per ep.;['Gainax'];Original;['Action', 'Adventure', 'Comedy', 'Sci-Fi'];N\A; PG-13 - Teens 13 or older  ;56;8.64
+63;Natsume Yuujinchou Roku;34591;TV;23 min. per ep.;['Shuka'];Manga;['Drama', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;1167;8.63
+64;Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai;38329;Movie;1 hr. 30 min.;['CloverWorks'];Light;['Drama', 'Romance', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;303;8.63
+65;Death Note;1535;TV;23 min. per ep.;['Madhouse'];Manga;['Mystery', 'Supernatural', 'Suspense'];['Police', 'Psychological']; R - 17+ (violence & profanity)  ;1;8.63
+66;One Piece;21;TV;24 min.;['Toei Animation'];Manga;['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy'];N\A; PG-13 - Teens 13 or older  ;26;8.62
+67;Ping Pong the Animation;22135;TV;23 min. per ep.;['Tatsunoko Production'];Manga;['Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;540;8.62
+68;Shingeki no Kyojin Season 3;35760;TV;23 min. per ep.;['Wit Studio'];Manga;['Action', 'Drama', 'Fantasy', 'Mystery'];['Military', 'Super Power']; R - 17+ (violence & profanity)  ;24;8.62
+69;Suzumiya Haruhi no Shoushitsu;7311;Movie;2 hr. 41 min.;['Kyoto Animation'];Light;['Mystery', 'Romance', 'Sci-Fi', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;305;8.62
+70;Mushishi Zoku Shou: Suzu no Shizuku;28957;Movie;47 min.;['Artland'];Manga;['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;1532;8.60
+71;Ookami Kodomo no Ame to Yuki;12355;Movie;1 hr. 57 min.;['Studio Chizu'];Original;['Fantasy', 'Slice of Life'];N\A; G - All Ages  ;197;8.60
+72;Shouwa Genroku Rakugo Shinjuu;28735;TV;26 min. per ep.;['Studio Deen'];Manga;N\A;N\A; PG-13 - Teens 13 or older  ;725;8.59
+73;Kizumonogatari II: Nekketsu-hen;31757;Movie;1 hr. 4 min.;['Shaft'];Light;['Action', 'Mystery', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;465;8.59
+74;Hajime no Ippo: Rising;19647;TV;22 min. per ep.;['Madhouse', 'MAPPA'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;908;8.58
+75;JoJo no Kimyou na Bouken Part 5: Ougon no Kaze;37991;TV;23 min. per ep.;['David Production'];Manga;['Action', 'Adventure'];N\A; R - 17+ (violence & profanity)  ;162;8.58
+76;Natsume Yuujinchou Go;32983;TV;23 min. per ep.;['Shuka'];Manga;['Drama', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;1174;8.58
+77;Natsume Yuujinchou San;10379;TV;24 min. per ep.;"[""Brain's Base""]";Manga;['Drama', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;829;8.58
+78;Yojouhan Shinwa Taikei;7785;TV;23 min. per ep.;['Madhouse'];Novel;['Comedy', 'Mystery', 'Romance'];N\A; R - 17+ (violence & profanity)  ;464;8.58
+79;Tengen Toppa Gurren Lagann Movie 2: Lagann-hen;4565;Movie;2 hr. 5 min.;['Gainax'];Original;['Action', 'Sci-Fi'];['Mecha', 'Space', 'Super Power']; R+ - Mild Nudity  ;982;8.57
+80;Fate/Zero 2nd Season;11741;TV;24 min. per ep.;['ufotable'];Light;['Action', 'Fantasy', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;114;8.57
+81;Fruits Basket 2nd Season;40417;TV;23 min. per ep.;['TMS Entertainment'];Manga;['Comedy', 'Drama', 'Romance', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;496;8.57
+82;JoJo no Kimyou na Bouken Part 6: Stone Ocean;48661;ONA;24 min.;['David Production'];Manga;['Action', 'Adventure'];N\A; R - 17+ (violence & profanity)  ;627;8.57
+83;Kimi no Suizou wo Tabetai;36098;Movie;1 hr. 48 min.;['Studio VOLN'];Novel;['Drama', 'Romance', 'Slice of Life'];N\A; PG-13 - Teens 13 or older  ;195;8.57
+84;Kimetsu no Yaiba;38000;TV;23 min. per ep.;['ufotable'];Manga;['Action', 'Supernatural'];['Demons', 'Historical']; R - 17+ (violence & profanity)  ;9;8.56
+85;Yakusoku no Neverland;37779;TV;22 min. per ep.;['CloverWorks'];Manga;['Horror', 'Mystery', 'Sci-Fi', 'Suspense'];N\A; R - 17+ (violence & profanity)  ;39;8.56
+86;Mushishi: Hihamukage;21329;Special;45 min.;['Artland'];Manga;['Adventure', 'Fantasy', 'Mystery', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;1444;8.55
+87;Zoku Natsume Yuujinchou;5300;TV;24 min. per ep.;"[""Brain's Base""]";Manga;['Drama', 'Slice of Life', 'Supernatural'];N\A; PG-13 - Teens 13 or older  ;834;8.55
+88;Bakuman. 3rd Season;12365;TV;24 min. per ep.;['J.C.Staff'];Manga;['Comedy', 'Drama', 'Romance'];N\A; PG-13 - Teens 13 or older  ;600;8.55
+89;Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly;33049;Movie;1 hr. 57 min.;['ufotable'];Visual;['Action', 'Fantasy', 'Supernatural'];N\A; R - 17+ (violence & profanity)  ;593;8.54
+90;Haikyuu!!: To the Top 2nd Season;40776;TV;23 min. per ep.;['Production I.G'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;270;8.54
+91;Kara no Kyoukai 5: Mujun Rasen;4282;Movie;1 hr. 54 min.;['ufotable'];Light;['Action', 'Drama', 'Mystery', 'Romance', 'Supernatural', 'Suspense'];N\A; R - 17+ (violence & profanity)  ;879;8.54
+92;Neon Genesis Evangelion: The End of Evangelion;32;Movie;1 hr. 26 min.;['Gainax', 'Production I.G'];Original;['Avant Garde', 'Drama', 'Sci-Fi'];['Mecha', 'Psychological']; R+ - Mild Nudity  ;171;8.54
+93;Sora yori mo Tooi Basho;35839;TV;23 min. per ep.;['Madhouse'];Original;['Adventure', 'Comedy', 'Drama'];N\A; PG-13 - Teens 13 or older  ;411;8.54
+94;Yuru Camp△ Season 2;38474;TV;23 min. per ep.;['C-Station'];Manga;['Comedy', 'Slice of Life'];N\A; PG-13 - Teens 13 or older  ;1087;8.54
+95;Slam Dunk;170;TV;23 min. per ep.;['Toei Animation'];Manga;['Comedy', 'Drama', 'Sports'];N\A; PG-13 - Teens 13 or older  ;762;8.53
+96;Gintama.: Porori-hen;35843;TV;23 min. per ep.;['Bandai Namco Pictures'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; PG-13 - Teens 13 or older  ;1121;8.53
+97;Koukaku Kidoutai: Stand Alone Complex 2nd GIG;801;TV;25 min. per ep.;['Production I.G'];Manga;['Action', 'Mystery', 'Sci-Fi'];['Mecha', 'Military', 'Police']; R - 17+ (violence & profanity)  ;909;8.53
+98;Gintama Movie 1: Shinyaku Benizakura-hen;7472;Movie;1 hr. 35 min.;['Sunrise'];Manga;['Action', 'Comedy', 'Sci-Fi'];['Historical', 'Parody', 'Samurai']; R - 17+ (violence & profanity)  ;1294;8.52
+99;Kenpuu Denki Berserk;33;TV;25 min. per ep.;['OLM'];Manga;['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Supernatural'];['Demons', 'Military']; R+ - Mild Nudity  ;332;8.52
