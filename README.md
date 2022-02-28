@@ -2,7 +2,7 @@
 ![plot](https://github.com/TamirIsCool/DataScIntro/blob/main/photos/mal_pic.PNG)
 ![plot](https://github.com/TamirIsCool/DataScIntro/blob/main/photos/mal_dead.PNG)
 Some funny pictures we took during our work on the project. <br> On the left side you can see how MyAnimeList.net blocked us due to excessive requests. <br> And on the right side you can our scraping program taking 500+ minutes to scrape.
-## We would firstly like to say thanks, to Roee and Idan for all their help and useful information during the semester and for this opportunity to do a fun project instead of a simple exam.
+## We would firstly like to say thanks, to Roi and Idan for all their help and useful information during the semester and for this opportunity to do a fun project instead of a simple exam.
 # The project is divided into 3 parts.
 ## Simple math/programming questions (Individually done)
 ### Not much to collaborate here.
